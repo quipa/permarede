@@ -1,4 +1,4 @@
 Permacultura em rede:
-* Aprendizado
+* [Curso](aprendizado/curso.html)
 * Certificação
 * Comercialização
