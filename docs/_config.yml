@@ -1,7 +1,2 @@
-theme: jekyll-theme-leap-day
+# theme: jekyll-theme-leap-day
 title: Permacultura em Rede
-navigation:
-  - title: Aprendizado
-    url: /aprendizado
-  - title: Mercado
-    url: /
